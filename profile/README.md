@@ -1,8 +1,7 @@
-# Astro
 <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/b757bca0-bc59-480f-87ae-6fefc7bff7d2" />
 
 
-# Intro
+## Intro
 > 노트, 그래프를 기반으로 한 AI 보조 개인 지식 관리 플랫폼
 
 Astro는 사용자가 노트를 작성하고, 생각을 연결하며, 지식 그래프로 관계를 시각화하고, AI를 통해 사고를 확장할 수 있도록 돕는 개인 지식 관리 서비스입니다.
