@@ -2,7 +2,8 @@
 
 
 ## Intro
-> 노트, 그래프를 기반으로 한 AI 보조 개인 지식 관리 플랫폼
+> 노트, 그래프를 기반으로 한 AI 보조 개인 지식 관리 플랫폼 <br>
+> 접속 url : https://astro-knowledge.com
 
 Astro는 사용자가 노트를 작성하고, 생각을 연결하며, 지식 그래프로 관계를 시각화하고, AI를 통해 사고를 확장할 수 있도록 돕는 개인 지식 관리 서비스입니다.
 
@@ -119,17 +120,18 @@ flowchart TD
 
 ### Frontend
 
-| Category     | Tech                                           |
-| ------------ | ---------------------------------------------- |
-| Framework    | Next.js                                        |
-| Language     | TypeScript                                     |
-| UI           | React, Tailwind CSS                            |
-| Server State | TanStack Query                                 |
-| Form         | React Hook Form                                |
-| Markdown     | react-markdown, remark-gfm                     |
-| i18n         | next-intl                                      |
-| Monitoring   | Sentry                                         |
-| Test         | Vitest, React Testing Library, MSW, Playwright |
+| Category      | Tech                                           |
+| ------------- | ---------------------------------------------- |
+| Framework     | Next.js                                        |
+| Language      | TypeScript                                     |
+| UI            | React, Tailwind CSS                            |
+| Graph         | react-force-graph-2d, d3-force                 |
+| Server State  | TanStack Query                                 |
+| Form          | React Hook Form                                |
+| Markdown      | react-markdown, remark-gfm                     |
+| i18n          | next-intl                                      |
+| Monitoring    | Sentry                                         |
+| Test          | Vitest, React Testing Library, MSW, Playwright |
 
 ### Backend
 
