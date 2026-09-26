@@ -286,7 +286,7 @@ Astro는 노트 내용을 파싱하고 노트 간 관계를 탐지합니다.
 사용자가 자신의 노트를 기반으로 질문합니다.
 
 ```txt
-How are my notes about knowledge graphs connected to AI Q&A?
+요즘 볼만한 영화 추천해줄래?
 ```
 
 Astro는 관련 노트 문맥을 검색하고, 출처와 함께 답변을 생성합니다.
