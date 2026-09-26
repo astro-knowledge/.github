@@ -254,69 +254,34 @@ Restart services with Docker Compose
 사용자가 노트를 작성합니다.
 
 ```txt
-Today I learned about graph-based knowledge management.
-I want to connect this with [[Knowledge Graph]] and [[AI Q&A]].
+오늘은 즐거운 영화를 봤다.
+크리스토퍼 감독의 오디세이다.
 ```
 
-추천 스크린샷/GIF:
-
-```txt
-docs/images/demo-01-note-write.gif
-```
-
----
+<img width="80%" alt="1" src="https://github.com/user-attachments/assets/159eaaf7-f643-43c4-8d2b-923f0bdce704" />
+<br><br>
 
 ### 2. Create a Wiki Link
 
 사용자가 노트 에디터 안에 `[[note title]]`을 입력합니다.
 
 ```txt
-[[Knowledge Graph]]
+[[크리스토퍼 놀란]]
 ```
 
 Astro는 노트 내용을 파싱하고 노트 간 관계를 탐지합니다.
 
-추천 스크린샷/GIF:
-
-```txt
-docs/images/demo-02-wiki-link.gif
-```
-
----
+<img width="80%" alt="2" src="https://github.com/user-attachments/assets/126cb8f4-358a-4b23-9b8c-a7c3af3fe508" />
+<br><br>
 
 ### 3. Reflect Link in Graph
 
 연결된 노트들이 그래프 노드로 표시되고 서로 연결됩니다.
 
-추천 스크린샷/GIF:
+<img width="80%" alt="3" src="https://github.com/user-attachments/assets/38ccb596-ec81-4a88-9b5a-304b66215093" />
+<br><br>
 
-```txt
-docs/images/demo-03-graph-reflect.gif
-```
-
----
-
-### 4. Recommend AI Questions
-
-Astro는 노트 내용을 기반으로 후속 질문을 추천합니다.
-
-예시:
-
-```txt
-- How does a knowledge graph improve personal note-taking?
-- What is the difference between tags and graph relationships?
-- How can AI help discover hidden connections between notes?
-```
-
-추천 스크린샷/GIF:
-
-```txt
-docs/images/demo-04-ai-question-recommend.gif
-```
-
----
-
-### 5. Ask AI Q&A
+### 4. Ask AI Q&A
 
 사용자가 자신의 노트를 기반으로 질문합니다.
 
@@ -325,25 +290,13 @@ How are my notes about knowledge graphs connected to AI Q&A?
 ```
 
 Astro는 관련 노트 문맥을 검색하고, 출처와 함께 답변을 생성합니다.
+<img width="80%" alt="4" src="https://github.com/user-attachments/assets/c52ad02b-dc0e-406b-a944-ddb3c9c711d3" />
+<br><br>
 
-추천 스크린샷/GIF:
-
-```txt
-docs/images/demo-05-ai-qa.gif
-```
-
----
-
-### 6. Upload a File
+### 5. Upload a File
 
 사용자가 노트에 파일을 업로드하고, 이후 미리보기 또는 다운로드할 수 있습니다.
 
-추천 스크린샷/GIF:
-
-```txt
-docs/images/demo-06-file-upload.gif
-```
-
----
+<img width="80%" alt="5" src="https://github.com/user-attachments/assets/b10e8dcc-6995-4c7a-95b6-fb456953c648" />
 
 
